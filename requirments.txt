@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sklearn
 fastapi
 pandas
@@ -5,4 +6,13 @@ pydantic
 tensorflow==2.0.0
 uvicorn
 h5py==2.10.0
+=======
+sklearn
+fastapi
+pandas
+pydantic
+tensorflow==2.0.0
+uvicorn
+h5py==2.10.0
+>>>>>>> bcb8accf8958a94c362b01769a4cc4b7192ae992
 python-multipart
